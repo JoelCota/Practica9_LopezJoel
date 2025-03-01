@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "336264583385",
-    "project_id": "practica9-177c0",
-    "storage_bucket": "practica9-177c0.firebasestorage.app"
+    "project_number": "692400523785",
+    "project_id": "practica9-19d6d",
+    "storage_bucket": "practica9-19d6d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:336264583385:android:0cf41ca52a42742d3846c8",
+        "mobilesdk_app_id": "1:692400523785:android:1ddd5ccf52383b7aacc6d8",
         "android_client_info": {
           "package_name": "lopez.joel.practica9"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDwsarm3FFm6BySvV4LhODz67CBLwlu_B8"
+          "current_key": "AIzaSyBWsPizYP8bh2tiB36O-tRTCoQ2sZ6GxiE"
         }
       ],
       "services": {
